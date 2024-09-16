@@ -1,5 +1,12 @@
 # 🌸 Hey, Lovely People! I'm Dila! 💖✨
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🌸+Hey,+Lovely+People!;+I'm+Dila+💖+✨;" />
+</h1>
+<h3>Desenvolvedor Web Front-End </h3>
+
+![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+
 Welcome to my little corner of the coding universe! I'm **Dila**, a 7th-semester Informatics student with a love for **web development** and **digital content creation**. Whether I'm crafting pixel-perfect web pages or creating vibrant digital content, I thrive on turning creative ideas into reality.
 
 ## 🔧 Skills & Technologies
@@ -33,8 +40,5 @@ I’m always up for chatting about new projects, collaboration opportunities, or
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Dila's Github Stats](https://github-readme-stats.vercel.app/api?username=codebydila&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=codebydila&show_icons=true&theme=radical)
 ![](https://github-contributor-stats.vercel.app/api?username=codebydila&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-## 💡 Snake Eating My Contribution:
-![snake gif](https://github.com/codedreamerD/codedreamerD/blob/output/github-contribution-grid-snake.svg)
