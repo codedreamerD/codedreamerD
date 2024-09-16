@@ -37,4 +37,4 @@ I’m always up for chatting about new projects, collaboration opportunities, or
 ![](https://github-contributor-stats.vercel.app/api?username=codebydila&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 💡 Snake Eating My Contribution:
-![snake gif](https://github.com/codedreamerD/codedreamerD/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Dark](https://github.com/codedreamerD/codedreamerD/blob/output/github-contribution-grid-snake-dark.svg)
