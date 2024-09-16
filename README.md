@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🌸+Hey,+Lovely+People!+I'm+Dila+💖+✨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🌸+Hey,+Lovely+People!+I'm+Dila+🌷+✨;" />
 </h1>
 
-![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/codedreamerD/codedreamerD/blob/output/github-contribution-grid-snake.gif)
 
 Welcome to my little corner of the coding universe! I'm **Dila**, a 7th-semester Informatics student with a love for **web development** and **digital content creation**. Whether I'm crafting pixel-perfect web pages or creating vibrant digital content, I thrive on turning creative ideas into reality.
 
