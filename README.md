@@ -36,4 +36,3 @@ I’m always up for chatting about new projects, collaboration opportunities, or
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codebydila&show_icons=true&theme=radical)
-![](https://github-contributor-stats.vercel.app/api?username=codebydila&limit=5&theme=radical&combine_all_yearly_contributions=true)
