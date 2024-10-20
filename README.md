@@ -15,7 +15,7 @@ I’m a firm believer in blending the technical with the creative. From building
 - Curating content and managing **social media platforms**
 
 ## 🚀 What Gets Me Going
-I’m driven by the challenge of crafting **innovative solutions** and delivering **seamless user experiences**. Whether it’s front-end development or content creation, I’m always striving to make things better, more fun, and easier for users. I love exploring ways to blend **technology and creativity** in every project!
+I’m driven by the challenge of crafting **innovative solutions** and delivering **seamless user experiences**. Whether it’s front-end development or content creation, I love exploring ways to blend **technology and creativity** in every project!
 
 ## 🌱 What I'm Learning
 I'm always looking to expand my knowledge. Right now, I'm diving into:
