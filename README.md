@@ -17,11 +17,6 @@ I’m a firm believer in blending the technical with the creative. From building
 ## 🚀 What Gets Me Going
 I’m driven by the challenge of crafting **innovative solutions** and delivering **seamless user experiences**. Whether it’s front-end development or content creation, I love exploring ways to blend **technology and creativity** in every project!
 
-## 🌱 What I'm Learning
-I'm always looking to expand my knowledge. Right now, I'm diving into:
-- **React** for front-end development
-- **Dart** for mobile app development
-
 I’m so excited to discover even more ways to integrate my love for tech and design!
 
 ## 📫 Let's Connect!
