@@ -24,8 +24,6 @@ I’m so excited to discover even more ways to integrate my love for tech and de
 - **LinkedIn**: [Dila's LinkedIn](https://www.linkedin.com/in/fadhilaanr)
 - **Email**: [Dila's Email](mailto:fadhilahnurrahmayanti@gmail.com)
 
-I’m always up for chatting about new projects, collaboration opportunities, or just talking about our favorite tech trends.
-
 Let’s create something wonderful together! 💫
 
 ## 💻 Tech Stack:
