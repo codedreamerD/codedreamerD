@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Dila+🌷+✨;" />
 </h1>
 
-Welcome to my little corner of the coding universe! I'm **Dila**, a 7th-semester Informatics student with a love for **web development** and **digital content creation**. Whether I'm crafting pixel-perfect web pages or creating vibrant digital content, I thrive on turning creative ideas into reality.
+Welcome to my little corner of the coding universe! I'm **Dila**, an undergraduate Informatics student with a love for **web development** and **digital content creation**. Whether I'm crafting pixel-perfect web pages or creating vibrant digital content, I thrive on turning creative ideas into reality.
 
 ## 🔧 Skills & Technologies
 - **Front-end Development**: HTML, CSS, JavaScript
