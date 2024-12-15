@@ -10,7 +10,7 @@ Welcome to my little corner of the coding universe! I'm **Dila**, an undergradua
 - **Content Creation**: Video Editing, Social Media Management
 
 ## 💡 Experience
-I’m a firm believer in blending the technical with the creative. From building sleek websites to designing engaging social media content, I've gained hands-on experience through **internships** and **volunteer roles**. Some of my favorite projects include:
+I’m a believer in blending the technical with the creative. From building sleek websites to designing engaging social media content, I've gained hands-on experience through **internships** and **volunteer roles**. Some of my favorite projects include:
 - Collaborating on **web design** and **software development** teams
 - Curating content and managing **social media platforms**
 
