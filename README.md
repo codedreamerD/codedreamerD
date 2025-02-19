@@ -14,9 +14,6 @@ I’m a believer in blending the technical with the creative. From building slee
 - Collaborating on **web design** and **software development** teams
 - Curating content and managing **social media platforms**
 
-## 🚀 What Gets Me Going
-I’m driven by the challenge of crafting **innovative solutions** and delivering **seamless user experiences**. Whether it’s front-end development or content creation, I love exploring ways to blend **technology and creativity** in every project!
-
 I’m so excited to discover even more ways to integrate my love for tech and design!
 
 ## 📫 Let's Connect!
