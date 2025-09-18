@@ -5,7 +5,7 @@
 Welcome to my little corner of the coding universe! I'm **Dila**, an undergraduate Informatics student. I’m so excited to discover even more ways to integrate my love for tech and design!
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Dila's LinkedIn](https://www.linkedin.com/in/fadhilaanr)
-- **Email**: [Dila's Email](mailto:dilaafn10@gmail.com)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/fadhilaanr)
+- **Email**: [My Email](mailto:dilaafn10@gmail.com)
 
 Let’s create something wonderful together! 💫
