@@ -9,6 +9,3 @@ Welcome to my little corner of the coding universe! I'm **Dila**, an undergradua
 - **Email**: [Dila's Email](mailto:dilaafn10@gmail.com)
 
 Let’s create something wonderful together! 💫
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codedreamerD&show_icons=true&theme=radical)
